@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm David Nasibu
 
-<!--
-**saidinasibu/saidinasibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Programming (Software Engineering) student at **Brigham Young University (BYU)**.  
+💡 I love combining technology with creativity to build powerful and beautiful digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- 💻 Languages: **Python**, **JavaScript**, **C#**, **SQL**
+- 🌐 Web: **HTML**, **CSS**, **React** (or other if needed)
+- 🛠 Tools: **Visual Studio Code**, **Git**, **MySQL**
+- 🎨 Creative Suite: **Photoshop**, **Illustrator**, **Premiere Pro**, **After Effects**
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn – David Nasibu](https://www.linkedin.com/in/davidnasibu/)
+- 📧 Email: **adjinasibusaidi@gmail.com**
+- 🌍 Portfolio: *Coming soon...*
+
+---
+
+## 🚀 What I’m Working On
+
+Currently building full-stack web apps and sharpening my skills in software engineering and multimedia design.
+
+Thanks for visiting my profile! 😊
