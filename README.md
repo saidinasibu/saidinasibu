@@ -48,10 +48,9 @@ I'm currently pursuing a **BEB in Computer Programming (Software Engineering)** 
 ## 📫 Let’s Connect
 - 🔗 [Behence - David Nasibu](https://www.behance.net/davidnasibu)
 - 🔗 [LinkedIn – David Nasibu](https://www.linkedin.com/in/davidnasibu/)
+- 🔗 [🌍 Portfolio](https://www.saidinasibu.github.io/portfolio/index.html/)
 - 📧 Email: **adjinasibusaidi@gmail.com**
-- 🌍 Portfolio: saidinasibu.github.io/portfolio/index.html
 
----
 
 ## 🧠 Fun Facts
 
